@@ -1,2 +1,2 @@
 # simple-ga
-Sample code for an incredibly simple genetic algorithm.
+Sample code for an incredibly simple genetic algorithm(GA).
