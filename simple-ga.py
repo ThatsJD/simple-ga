@@ -62,7 +62,7 @@ def selection(agents):
     return agents
 
 
-def crossovers(agents):
+def crossover(agents):
 
     offspring = []
 
